@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 0c04b7a60941abb4eb26ed4dce2145ea
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drewno_deski
+    second: {fileID: 2100000, guid: 494f5df9ae803794087808583430dbed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drewno_meble
+    second: {fileID: 2100000, guid: d9898aea4bd5fa94f836166eaef3ef4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_barrel_01
+    second: {fileID: 2100000, guid: 941642972753cde46ad43a7fe1fea206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_barrel_01.001
+    second: {fileID: 2100000, guid: 941642972753cde46ad43a7fe1fea206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_barrel_01.002
+    second: {fileID: 2100000, guid: 941642972753cde46ad43a7fe1fea206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_bed_01
+    second: {fileID: 2100000, guid: fd5fa2642acc62147b63058342231657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_bed_01.001
+    second: {fileID: 2100000, guid: fd5fa2642acc62147b63058342231657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_blood_01
+    second: {fileID: 2100000, guid: d99a939acc1f95849a3c1ae655db6383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_blood_02
+    second: {fileID: 2100000, guid: 4b8a91270011f9240a9062bd892133fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_bookshelf_01
+    second: {fileID: 2100000, guid: 4da22672f7209344eb1912c6ee5834e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_bookshelf_02
+    second: {fileID: 2100000, guid: 4e2ac41cf717838419848e9ce79ced4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_corpse_01
+    second: {fileID: 2100000, guid: 383e3361ae92b98419d2f81a344a235a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_curtain_01
+    second: {fileID: 2100000, guid: 93dd6d00fb0f6494a82d182817f0471a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_door_01
+    second: {fileID: 2100000, guid: 67a572ea55c19b74ba06aab276d9135b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_door_02
+    second: {fileID: 2100000, guid: 612cbf20f642ca34492225f333dcb9b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_electricalbox_01
+    second: {fileID: 2100000, guid: 36b4f2b8e55ecd74ba54179030bdea5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_electricalbox_02
+    second: {fileID: 2100000, guid: a2b92674ff040ab4b9728056ed6c08dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_floor_01
+    second: {fileID: 2100000, guid: 8e9825a7784d6e44384363b7f7b237e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_floor_tiles_01
+    second: {fileID: 2100000, guid: 9dd91a2565e60d540ab65bbde1e850fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_floor_wood_01
+    second: {fileID: 2100000, guid: 0816a7ef390dad24ab96d5e0e9993329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_guts_01
+    second: {fileID: 2100000, guid: c14296318a3798e44a9f2538e6ea2799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_light_01
+    second: {fileID: 2100000, guid: aabee49eea46a1e47b1e2caf084ffb18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_light_02
+    second: {fileID: 2100000, guid: 1da0379e5648a39438a94987f36e47bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_morgue_01
+    second: {fileID: 2100000, guid: 00222faecafe6774c983f4c510e410c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_morgue_02
+    second: {fileID: 2100000, guid: d3453abb88ceb7949982f1cac8c63edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_morgue_03
+    second: {fileID: 2100000, guid: bab5992e6b8b83d49905d7052ddd2264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_net_01
+    second: {fileID: 2100000, guid: 66277e5bd9fda6e4091e50e7688e3d32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_wall_ceiling_01
+    second: {fileID: 2100000, guid: be930b392a110264abd6a74dc84bf73d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_wall_plaster_01
+    second: {fileID: 2100000, guid: 42e71f901309c53409a5a3ed73e3521c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_wall_plaster_02
+    second: {fileID: 2100000, guid: 332aafe1880b3ec42bbd6338dd2d5daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_wall_plaster_03
+    second: {fileID: 2100000, guid: 5f0e23f1c3480e24e860c84b9c287192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_wall_plaster_04
+    second: {fileID: 2100000, guid: 15247e168d91e294887d9e610a19d925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horror_wall_tiles_02
+    second: {fileID: 2100000, guid: 3024fa589f73c744e80c2287a68e1ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: locker
+    second: {fileID: 2100000, guid: d91b22da8a2b04242b74729dd76e2c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rozne
+    second: {fileID: 2100000, guid: 23789dda72b352e4bab42334cb5fd89f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rozne.001
+    second: {fileID: 2100000, guid: 23789dda72b352e4bab42334cb5fd89f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

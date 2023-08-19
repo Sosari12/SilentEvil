@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: d9d3553dda595234eb80d02af7d8bff8
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1079334538823460720
+    second: rig|Base
+  - first:
+      74: -2501379493646239657
+    second: rig|Hook_Attack1
+  - first:
+      74: 5657196017482620589
+    second: rig|Hook_Attack1_alt
+  - first:
+      74: 9168092187666313322
+    second: rig|Hook_Attack2
+  - first:
+      74: -3552227965544595438
+    second: rig|Hook_Attack2_alt
+  - first:
+      74: 6615466116879515286
+    second: rig|Hook_Attack_Run
+  - first:
+      74: 1934136507731380786
+    second: rig|Hook_Dying1
+  - first:
+      74: 5894223613327491108
+    second: rig|Hook_Dying1_Idle
+  - first:
+      74: 8652446825897193940
+    second: rig|Hook_Dying2
+  - first:
+      74: -7010638378888163473
+    second: rig|Hook_Dying2_Idle
+  - first:
+      74: -2078779970538593891
+    second: rig|Hook_Hurt
+  - first:
+      74: 2495295063003268578
+    second: rig|Hook_Hurt2
+  - first:
+      74: 6175891496346865614
+    second: rig|Hook_Idle_ver_A_1
+  - first:
+      74: -5703528656121708193
+    second: rig|Hook_Idle_ver_A_2
+  - first:
+      74: -8498511068605517799
+    second: rig|Hook_Idle_ver_A_3
+  - first:
+      74: -3639253636678984519
+    second: rig|Hook_Idle_ver_B_1
+  - first:
+      74: 7032405323377451140
+    second: rig|Hook_Idle_ver_B_2
+  - first:
+      74: 4391589623317369324
+    second: rig|Hook_Run
+  - first:
+      74: 3645008560201496970
+    second: rig|Hook_Walk_1
+  - first:
+      74: 4577273659664073868
+    second: rig|Hook_Walk_2
+  - first:
+      74: 4196095215929494059
+    second: rig|Hook_Walk_3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ec24bda2b50985f4bb9df7bf4bc4734d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
