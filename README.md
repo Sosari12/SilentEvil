@@ -41,9 +41,13 @@ E - Interact
 
 1, 2, 3 - Change weapons
 
+## Instalation
+Project was created in Unity 2021.3.11f1
 
+If you are interested in viewing the Unity project please install the correct version. 
 
+Head to https://unity.com/releases/editor/archive to download and install correct version of Unity.
 
-
+If you wish to play the current version of the build yourself its possible to download it at: https://github.com/Sosari12/SilentEvil_Build 
 
 
